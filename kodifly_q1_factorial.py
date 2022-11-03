@@ -16,7 +16,7 @@ def sum_of_digits_in_factorial(n, method=1):
   """
   """
   This is my repository
-
+    Now changing online
   """
   factorial = 1 # a variable is defined to store the factorial
   sum = 0 # variable to count the summation of the factorial digits
